@@ -1,0 +1,1 @@
+[{"id":1,"CustomerID":1,"RoomID":1,"DateCheckIN":[5,10,64],"DateCheckOUT":[8,10,64],"Quantity":4,"TotalPrice":1870},{"id":2,"CustomerID":2,"RoomID":3,"DateCheckIN":[5,10,64],"DateCheckOUT":[8,10,64],"Quantity":1}]

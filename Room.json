@@ -1,0 +1,66 @@
+ [
+    {
+        "id": 1,
+        "Roomnumber": 101,
+        "Type": "Single",
+        "Floor": 1,
+        "Detail": "A room assigned to one person. May have one or more beds.",
+        "Price": 490
+    },
+    {
+        "id": 2,
+        "Roomnumber": 102,
+        "Type": "Single",
+        "Floor": 1,
+        "Detail": "A room assigned to one person. May have one or more beds.",
+        "Price": 490
+    },
+    {
+        "id": 3,
+        "Roomnumber": 103,
+        "Type": "Single",
+        "Floor": 1,
+        "Detail": "A room assigned to one person. May have one or more beds.",
+        "Price": 490
+    },
+    {
+        "id": 4,
+        "Roomnumber": 104,
+        "Type": "Single",
+        "Floor": 1,
+        "Detail": "A room assigned to one person. May have one or more beds.",
+        "Price": 490
+    },
+    {
+        "id": 5,
+        "Roomnumber": 201,
+        "Type": "Double",
+        "Floor": 2,
+        "Detail": "A room assigned to two people. May have one or more beds.",
+        "Price": 690
+    },
+    {
+        "id": 6,
+        "Roomnumber": 202,
+        "Type": "Double",
+        "Floor": 2,
+        "Detail": "A room assigned to two people. May have one or more beds.",
+        "Price": 690
+    },
+    {
+        "id": 7,
+        "Roomnumber": 203,
+        "Type": "Double",
+        "Floor": 2,
+        "Detail": "A room assigned to two people. May have one or more beds.",
+        "Price": 690
+    },
+    {
+        "id": 8,
+        "Roomnumber": 204,
+        "Type": "Double",
+        "Floor": 2,
+        "Detail": "A room assigned to two people. May have one or more beds.",
+        "Price": 690
+    }
+]
